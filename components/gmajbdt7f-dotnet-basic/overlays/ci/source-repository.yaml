@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gmajbdt7f-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gmajbdt7f-dotnet-basic
